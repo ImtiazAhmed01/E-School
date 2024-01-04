@@ -16,3 +16,20 @@
 .intro-text {
     padding: 100px;
 }
+
+.img {
+    width: 100px;
+    height: 100px;
+    margin-left: 25%;
+    margin-top: 10%;
+
+}
+
+.hvr {
+    border-radius: 0;
+}
+
+.hvr:hover {
+    border-radius: 20px;
+    background-color: lightgreen;
+}
