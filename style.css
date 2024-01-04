@@ -1,4 +1,4 @@
-.container,
+.container1,
 .navbar {
     background-color: #F0FFF0;
 }
@@ -8,13 +8,14 @@
 }
 
 .intro-appearance {
-    margin-top: 6%;
+    margin-top: 4%;
     display: flex;
 
 }
 
 .intro-text {
     padding: 100px;
+    padding-left: 100px;
 }
 
 .img {
