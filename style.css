@@ -1,7 +1,18 @@
+.container,
 .navbar {
-    background-color: azure;
+    background-color: #F0FFF0;
 }
 
 .right-shift {
     margin-left: 50%;
+}
+
+.intro-appearance {
+    margin-top: 6%;
+    display: flex;
+
+}
+
+.intro-text {
+    padding: 100px;
 }
