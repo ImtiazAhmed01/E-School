@@ -40,3 +40,7 @@
     height: 100px;
     margin-left: 25%;
 }
+
+.footer {
+    display: flex;
+}
