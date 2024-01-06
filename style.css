@@ -54,3 +54,8 @@
     margin-left: 300px;
     position: relative;
 }
+
+.main-cart {
+    grid-column: 8 / -1;
+    text-align: right;
+}
